@@ -1,3 +1,1 @@
-# casperjs‚ğ—˜—p‚µ‚Äsalesforceƒy[ƒW‚ÌƒLƒƒƒvƒ`ƒƒæ“¾
-
-Ú×‚Í[*‚±‚¿‚ç*](http://deferloader.blog.uhuru.co.jp/?p=4590)
+# casperjsã‚’åˆ©ç”¨ã—ã¦salesforceãƒšãƒ¼ã‚¸ã®ã‚­ãƒ£ãƒ—ãƒãƒ£å–å¾—
